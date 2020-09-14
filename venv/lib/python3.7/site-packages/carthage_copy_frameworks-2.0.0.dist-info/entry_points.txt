@@ -1,0 +1,3 @@
+[console_scripts]
+carthage-copy-frameworks = carthage_copy_frameworks:main
+
