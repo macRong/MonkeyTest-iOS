@@ -2,7 +2,8 @@
 iOS环境的MonkeyTest
 
 # 使用
-前面是使用的Appium，具体不做描述可参考
+前面是使用的Appium，具体不做描述可参考微信公众号"大码观"
+
 1.修改Donkey.py中的
 
 ```
