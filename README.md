@@ -24,6 +24,6 @@ platformSystemVersion = "10.3.3"   #修改
 
 ---
 
-### 前面是使用的Appium，具体不做描述可参考微信公众号'大码观'找到iOS自动测试相关文章
+### 前面是使用的Appium+MonkeyTest，具体可参考微信公众号'大码观'找到iOS自动测试相关文章,有快速搭建方法
 
 ![大码观](venv/qrcode_for_gh_bcea7d5c10c4_344.jpg)
