@@ -2,7 +2,6 @@
 iOS环境的MonkeyTest
 
 # 使用
-前面是使用的Appium，具体不做描述可参考微信公众号"大码观"
 
 1.修改Donkey.py中的
 
@@ -22,3 +21,9 @@ platformSystemVersion = "10.3.3"   #修改
 `Donkey.py`
 然后运行
 `StartTest.command`
+
+---
+
+### 前面是使用的Appium，具体不做描述可参考微信公众号'大码观'找到iOS自动测试相关文章
+
+![大码观](venv/qrcode_for_gh_bcea7d5c10c4_344.jpg)
